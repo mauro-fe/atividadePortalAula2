@@ -23,4 +23,5 @@ function dadosPessoais() {
     console.log("Endereco: " + endereco);
     console.log("Telefone: " + telefone);
 }
-// dadosPessoais();
+dadosPessoais();
+
